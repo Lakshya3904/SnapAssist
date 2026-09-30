@@ -1,0 +1,30 @@
+[
+  {
+    "component": "MCB",
+    "description": "A miniature circuit breaker protects electrical circuits from overcurrent and short circuits.",
+    "safety": "Switch off the main supply before inspection.",
+    "maintenance": "Check for overheating, loose terminals, discoloration and mechanical damage.",
+    "action": "If repeated tripping occurs, inspect the connected circuit and load."
+  },
+  {
+    "component": "Contactor",
+    "description": "A contactor is an electrically controlled switch used to switch power circuits, commonly for motors.",
+    "safety": "Isolate and lock out the power supply before servicing.",
+    "maintenance": "Inspect contacts, terminals, coil condition and signs of overheating.",
+    "action": "Check coil voltage and contact condition if the contactor fails to operate."
+  },
+  {
+    "component": "Relay",
+    "description": "A relay is an electrically operated switch used for control and signal switching.",
+    "safety": "Disconnect power before handling wiring.",
+    "maintenance": "Check terminals, coil operation and contact condition.",
+    "action": "Verify the control voltage and relay contacts."
+  },
+  {
+    "component": "Circuit Breaker",
+    "description": "A circuit breaker automatically interrupts current when an abnormal electrical condition occurs.",
+    "safety": "De-energize the equipment before inspection.",
+    "maintenance": "Inspect terminals, enclosure, mechanical operation and signs of overheating.",
+    "action": "Investigate the cause of repeated trips before resetting."
+  }
+]

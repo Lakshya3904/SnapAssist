@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+opencv-python
+numpy
+pandas
+openpyxl
+requests
+ultralytics
+sentence-transformers
+scikit-learn
+gradio
